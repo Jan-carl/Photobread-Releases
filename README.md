@@ -12,7 +12,6 @@
 
 <p align="center">
   <img alt="Rust" src="https://img.shields.io/badge/Language-Rust%20100%25-b7410e?style=for-the-badge&logo=rust">
-  <img alt="Platforms" src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=for-the-badge">
   <img alt="Graphics" src="https://img.shields.io/badge/Graphics-wgpu-green?style=for-the-badge">
   <img alt="Version" src="https://img.shields.io/badge/Release-v0.1%20Beta-orange?style=for-the-badge">
 </p>
